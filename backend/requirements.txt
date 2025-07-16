@@ -5,3 +5,4 @@ pydantic-settings
 sqlalchemy
 pytest
 python-dotenv
+python-jose
